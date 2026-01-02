@@ -1,4 +1,4 @@
-### Hello world!
+### Welcome peasants
 <!-- You can take my template if you wish :)  -->
 <table width="100%">
   <tr>
