@@ -8,7 +8,7 @@
   <tr>
   <td width="50%">
 
-  <br><p align="center">&nbsp; &nbsp;Im a student in cybersecurity. I'm still a newie but am looking forward to learn more.<br><br><br>
+  <br><p align="center">&nbsp; &nbsp;Im a student in cybersecurity. I'm still a newbie but am looking forward to learn more.<br><br><br>
   ![Visits](https://komarev.com/ghpvc/?username=ConsumingChef&color=blueviolet&style=for-the-badge&label=Visitors)
 </p>
   </td>
