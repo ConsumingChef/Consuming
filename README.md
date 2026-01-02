@@ -10,7 +10,7 @@
 
   <br><p align="center">&nbsp; &nbsp;Im a student in cybersecurity. I'm still a newie but am looking forward to learn more.<br>
   ![Visits](https://komarev.com/ghpvc/?username=ConsumingChef&color=blueviolet&style=for-the-badge&label=Visitors)
-</p>
+</p><br><br>
   </td>
   <td width="50%">
 
