@@ -33,7 +33,7 @@
   </td>
   <td width = "50%">
   <br>
-  <p align = "center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ConsumingChef&layout=compact&show_icons=true&theme=tokyonight&locale=en&count_private=true&langs_count=6" alt="ConsumingChef" /></p>
+   <p align = "center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ConsumingChef&layout=compact&show_icons=true&theme=tokyonight&cache_bust=1&locale=en&count_private=true&langs_count=6" alt="ConsumingChef"/></p>
   </td>
   </tr>
   <td align="center" colspan="2">
