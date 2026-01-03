@@ -16,15 +16,15 @@
 
  <p align = "center">
  <img src="/img/linux-icon.svg" alt="linux" width="40" height="40"/>
- <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/>
-	   <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="javascript" width="40" height="40"/>
-	 <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html" width="40" height="40"/>
-	 <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html" width="40" height="40"/>
-	 <img src="https://www.vectorlogo.zone/logos/lua/lua-icon.svg" alt="lua" width="40" height="40"/>
-	  <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fprocoders.tech%2Fwp-content%2Fuploads%2F2023%2F05%2Fpng-clipart-c-programming-language-logo-microsoft-visual-studio-net-framework-javascript-icon-purple-logo-removebg-preview.png&f=1&nofb=1&ipt=ace3fd153cebe769f302368dc1f43d352ef6c70547a565e79d109fabf36e56f2" alt="c#" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgresql" width="40" height="40"/> 
-<img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="40" height="40"/> 
- <img src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" alt="redis" width="40" height="40"/> 
+ <img src="/img/python-icon.svg" alt="python" width="40" height="40"/>
+	   <img src="/img/javascript-icon.svg" alt="javascript" width="40" height="40"/>
+	 <img src="/img/w3_html5-icon.svg" alt="html" width="40" height="40"/>
+	 <img src="/img/w3_css-icon~old.svg" alt="css" width="40" height="40"/>
+	 <img src="/img/lua-icon.svg" alt="lua" width="40" height="40"/>
+	  <img src="/img/Logo_C_sharp.svg" alt="c#" width="40" height="40"/>
+  <img src="/img/postgresql-icon.svg" alt="postgresql" width="40" height="40"/> 
+<img src="/img/mongodb-icon.svg" alt="mongodb" width="40" height="40"/> 
+ <img src="/img/redis-icon.svg" alt="redis" width="40" height="40"/> 
  </p>
   </td>
   <tr>
