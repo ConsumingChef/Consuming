@@ -43,7 +43,7 @@
   </tr>
   <tr>
   <td align="center" colspan="2">
-  <a href="https://tryhackme.com/p/Consuming" target="_blank"><img src="https://tryhackme-badges.s3.amazonaws.com/Consuming.png" alt="TryHackMe Badge"/>
+  <a href="https://tryhackme.com/p/Consuming" target="_blank"><img src="https://tryhackme-badges.s3.amazonaws.com/Consuming.png" alt="Your Image Badge" />
   </a>
   </td>
   </tr>
